@@ -13,7 +13,6 @@ This script was designed to allow all users to easily create their own selfbot
 
 
 ## 🛠️ Install Dependencies    
-# <p align="center">with npm</p>
 ```bash
 npm install
 ```      

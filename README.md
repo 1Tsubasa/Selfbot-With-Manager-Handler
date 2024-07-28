@@ -16,11 +16,7 @@ This script was designed to allow all users to easily create their own selfbot
 # <p align="center">with npm</p>
 ```bash
 npm install
-```
-# <p align="center">with bun</p>
-```bash
-bun install
-```        
+```      
 
 ## 🙇 Author
 #### 1Tsubasa

@@ -14,7 +14,9 @@ This script was designed to allow all users to easily create their own selfbot
 
 ## 🛠️ Install Dependencies    
 ```bash
-npm install
+npm install (in Manager and main folder)
+cd Manager (folder path)
+node index.js
 ```      
 
 ## 🙇 Author
